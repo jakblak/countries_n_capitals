@@ -20,12 +20,5 @@
 #### Front Page
 ![Screenshot1](app/img/img1.png)
 
-#### Inner Page
-=======
-![Screenshot2](app/img/img2.png)
-
-#### Inner page]
-![Screenshot2](app/img/img2.png)
-
 #### Inner page
 ![Screenshot2](app/img/img2.png)
